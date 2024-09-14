@@ -24,7 +24,7 @@ body {
    
    .titulo {
        font-family: montserrat;
-       font-size: 65px;
+       font-size: 50px;
        font-weight: 700;
        margin-left: 0px;
        margin-top: 60px;
@@ -38,7 +38,7 @@ body {
    
    .formulario{
        position: absolute;
-       top: 45%;
+       top: 58%;
        left: 50%;
        
        transform: translate(-50%, -50%);
