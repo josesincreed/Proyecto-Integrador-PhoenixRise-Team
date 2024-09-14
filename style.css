@@ -90,11 +90,13 @@ body {
 .footer-links ul li a {
     font-size: 18px;
     text-decoration: none;
+    list-style-type: none;
     color: white;
     display: block;
     margin-bottom: 15px;
     transition: all .3s ease ;
 }
+
 
 .footer-links ul li a:hover {
     color: #ffffff;
