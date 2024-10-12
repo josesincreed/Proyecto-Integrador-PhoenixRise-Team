@@ -140,6 +140,11 @@ body {
     flex-wrap: wrap;
 }
 
+.footer-links ul {
+    list-style: none;
+}
+
+
 
 
 
